@@ -1,4 +1,4 @@
-## in progress
+## spring-boot-graphql-example
 
 ### Building
 
