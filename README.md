@@ -17,3 +17,5 @@ mvn clean spring-boot:run
 ```shell
 http://localhost:8080/graphql
 ```
+## graphql postman screen 
+<image src="https://github.com/user-attachments/assets/95b48724-da72-436e-b7c9-aff6058fe16d" width="750" height="350">
