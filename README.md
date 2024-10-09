@@ -1,7 +1,7 @@
 ## spring-boot-graphql-example
 
 ### Building
-
+ 
 The example can be built with
 ```shell
 mvn clean install
